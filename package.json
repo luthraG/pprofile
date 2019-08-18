@@ -2,7 +2,7 @@
   "name": "luthra",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/luthraG/profile.git",
+  "homepage": "https://luthrag.github.io/luthraG/profile.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.21",
     "@fortawesome/free-brands-svg-icons": "^5.10.1",

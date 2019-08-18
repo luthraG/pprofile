@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/luthraG/profile.git/static/css/main.9440cd6e.chunk.css",
-    "main.js": "/luthraG/profile.git/static/js/main.89ef61b7.chunk.js",
-    "main.js.map": "/luthraG/profile.git/static/js/main.89ef61b7.chunk.js.map",
-    "runtime~main.js": "/luthraG/profile.git/static/js/runtime~main.f14ad9fc.js",
-    "runtime~main.js.map": "/luthraG/profile.git/static/js/runtime~main.f14ad9fc.js.map",
-    "static/js/2.f4142c0b.chunk.js": "/luthraG/profile.git/static/js/2.f4142c0b.chunk.js",
-    "static/js/2.f4142c0b.chunk.js.map": "/luthraG/profile.git/static/js/2.f4142c0b.chunk.js.map",
-    "index.html": "/luthraG/profile.git/index.html",
-    "precache-manifest.461084e88ef03fa3f563558bece5ce55.js": "/luthraG/profile.git/precache-manifest.461084e88ef03fa3f563558bece5ce55.js",
-    "service-worker.js": "/luthraG/profile.git/service-worker.js",
-    "static/css/main.9440cd6e.chunk.css.map": "/luthraG/profile.git/static/css/main.9440cd6e.chunk.css.map",
-    "static/media/motofix.jpeg": "/luthraG/profile.git/static/media/motofix.123e31da.jpeg",
-    "static/media/newgen.png": "/luthraG/profile.git/static/media/newgen.0a36edb4.png",
-    "static/media/profiler.jpeg": "/luthraG/profile.git/static/media/profiler.a838cfe4.jpeg"
+    "main.css": "/profile/static/css/main.9440cd6e.chunk.css",
+    "main.js": "/profile/static/js/main.115f9526.chunk.js",
+    "main.js.map": "/profile/static/js/main.115f9526.chunk.js.map",
+    "runtime~main.js": "/profile/static/js/runtime~main.eb263446.js",
+    "runtime~main.js.map": "/profile/static/js/runtime~main.eb263446.js.map",
+    "static/js/2.f4142c0b.chunk.js": "/profile/static/js/2.f4142c0b.chunk.js",
+    "static/js/2.f4142c0b.chunk.js.map": "/profile/static/js/2.f4142c0b.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "precache-manifest.8122d2bbf829e8fdebd0320b25a9bfe0.js": "/profile/precache-manifest.8122d2bbf829e8fdebd0320b25a9bfe0.js",
+    "service-worker.js": "/profile/service-worker.js",
+    "static/css/main.9440cd6e.chunk.css.map": "/profile/static/css/main.9440cd6e.chunk.css.map",
+    "static/media/motofix.jpeg": "/profile/static/media/motofix.123e31da.jpeg",
+    "static/media/newgen.png": "/profile/static/media/newgen.0a36edb4.png",
+    "static/media/profiler.jpeg": "/profile/static/media/profiler.a838cfe4.jpeg"
   }
 }
